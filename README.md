@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code to decode 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on big data
-- 📫 How to reach me adityakatre1544@gmail.com
+- 📫 reach me using adityakatre1544@gmail.com
 
 
 
